@@ -4,7 +4,7 @@
 ValidationManager library allow to us that check phone number easily.
 ### Features
 - [x] Check phone number
-- [ ] Check email address
+- [x] Check email address
 - [ ] Check credit card
 
 ### Setup
