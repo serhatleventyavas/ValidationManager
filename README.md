@@ -24,7 +24,7 @@ allprojects {
 ### Step 2. Add the dependency
 ```
 dependencies {
-	implementation 'com.github.serhatleventyavas:ValidationManager:1.0'
+	implementation 'com.github.serhatleventyavas:ValidationManager:2.0'
 }
 ```
 ### Step 3. Get All Countries
